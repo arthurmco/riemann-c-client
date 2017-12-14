@@ -55,7 +55,7 @@ WARNING: This is in really early stages, and was not fully tested.
 
 ```
 # ./build.sh
-# ./configure --with-protobuf-c-dir=/root/usr/protobuf-c
+# ./configure --with-protobuf-c-dir=/usr/include/protobuf-c
 # make
 ```
 
